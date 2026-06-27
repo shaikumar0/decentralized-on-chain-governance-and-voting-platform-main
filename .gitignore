@@ -1,0 +1,13 @@
+node_modules
+.next
+.git
+.env*
+coverage
+artifacts
+cache
+typechain-types
+compile.log
+compile.txt
+docker_error.log
+test.txt
+test2.log
